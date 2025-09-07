@@ -1,2 +1,2 @@
 # myself-demo
-this is a first repo to put my html project
+this is a first repository to put my html project
